@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Akshay Gautam
+# I'm Akshay Gautam
 
 ### AI & Machine Learning Undergraduate • Competitive Programmer • ML Engineer
 
