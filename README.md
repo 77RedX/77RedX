@@ -93,17 +93,13 @@ Position cap   35% per asset
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=77RedX&show_icons=true&hide_border=true&title_color=4A90E2&icon_color=1D4ED8&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=77RedX&hide_border=true&background=0d1117&ring=1D4ED8&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=4A90E2" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=77RedX&theme=blue-navy&hide_border=true&timezone=%2B5%3A30&mode=weekly" alt="GitHub Streak" /></a>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77RedX&layout=compact&hide_border=true&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117" />
 <img width="49%" src="https://leetcard.jacoblin.cool/redx_was_taken?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=77RedX&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 
 </div>
 
@@ -115,7 +111,7 @@ Position cap   35% per asset
 |:---|:---|
 | LeetCode | Knight · 1886 rating · 400+ problems solved |
 | Codeforces | Pupil · 1314 peak rating |
-| Pantheon 2024 — Capture The Flag | 3rd place (largest technical festival in Jharkhand) |
+| Pantheon 2024 — Capture The Flag | 3rd place |
 | Stanford ML Specialization | Completed — Andrew Ng, Coursera |
 
 ---
