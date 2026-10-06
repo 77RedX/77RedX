@@ -109,8 +109,8 @@ Position cap   35% per asset
 
 | | |
 |:---|:---|
-| LeetCode | Knight · 1886 rating · 400+ problems solved |
-| Codeforces | Pupil · 1314 peak rating |
+| LeetCode | Knight · 1886 rating |
+| Codeforces | Pupil · 1314 rating |
 | Pantheon 2024 — Capture The Flag | 3rd place |
 | Stanford ML Specialization | Completed — Andrew Ng, Coursera |
 
